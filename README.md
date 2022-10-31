@@ -1,0 +1,2 @@
+# kamblog
+hospital blog
